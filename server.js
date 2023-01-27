@@ -17,6 +17,7 @@ var rollbar = new Rollbar({
 })
 
 
+app.use(express.static(`${__dirname}/public`))
 
 
 app.get('/api/robots', (req, res) => {
