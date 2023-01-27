@@ -16,7 +16,7 @@ var rollbar = new Rollbar({
   captureUnhandledRejections: true,
 })
 
-app.use(express.static(`${__dirname}/public`))
+
 
 
 app.get('/api/robots', (req, res) => {
