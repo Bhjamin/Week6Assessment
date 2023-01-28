@@ -1,0 +1,3 @@
+https://trello.com/b/IurbL3S5/qa-devops-assessment
+
+http://ec2-54-202-89-4.us-west-2.compute.amazonaws.com/
